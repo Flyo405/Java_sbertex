@@ -13,6 +13,7 @@ public class TaskTwo {
             if (number > max) {
                 max = number;
             }
+
         }
 
         int sum = 0;
@@ -28,6 +29,7 @@ public class TaskTwo {
         System.out.println("Max: " + max);
         System.out.println("Avg: " + average);
     }
+
 }
 
 

@@ -7,5 +7,7 @@ public class TaskOne {
             System.out.print(num + " ");
             num += 7;
         }
+
     }
+
 }

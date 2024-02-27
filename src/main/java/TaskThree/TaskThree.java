@@ -7,7 +7,9 @@ public class TaskThree{
             if (Prime(i)) {
                 System.out.print(i + " ");
             }
+
         }
+
     }
 
     private static boolean Prime(int num) {
@@ -15,7 +17,9 @@ public class TaskThree{
             if (num % i == 0) {
                 return false;
             }
+
         }
         return true;
     }
+
 }
