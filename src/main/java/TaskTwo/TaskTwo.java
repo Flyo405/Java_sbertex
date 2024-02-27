@@ -25,7 +25,7 @@ public class TaskTwo {
         for (int number : numbers) {
             System.out.print(number + " ");
         }
-        System.out.println("");
+        System.out.println(" ");
         System.out.println("Max: " + max);
         System.out.println("Avg: " + average);
     }
